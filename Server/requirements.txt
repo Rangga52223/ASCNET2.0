@@ -1,0 +1,3 @@
+pyshark
+websocket-client
+pyyaml

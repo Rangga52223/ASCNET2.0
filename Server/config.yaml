@@ -1,0 +1,5 @@
+network_interface: 'Wi-Fi'               # Interface jaringan yang digunakan
+websocket_host: '192.168.0.103'               # Host WebSocket server
+websocket_port: 8000                      # Port WebSocket server
+scaler_path: 'scaler1.pkl'    # Lokasi scaler .pkl file
+excluded_ports: [80, 443]
