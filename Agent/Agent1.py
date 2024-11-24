@@ -10,7 +10,7 @@ import yaml
 import joblib
 
 # Load scaler and model
-scaler = joblib.load('scaler1.pkl')
+scaler = joblib.load('scaler1.pk')
 model = load_model('detection_core1.h5')
 
 # Fitur yang digunakan
